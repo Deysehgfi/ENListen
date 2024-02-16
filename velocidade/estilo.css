@@ -1,0 +1,29 @@
+.box-1{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.velocidade{
+    border: solid 3px darkblue;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.label{
+    font-size: 20px;
+}
+.btn{
+    font-size: 20px;
+    border-radius: 15px;
+    border: 0px;
+    padding: 2px;
+    background-color: brown;
+    
+}
+
+body{
+    background-color: antiquewhite;
+}
+
